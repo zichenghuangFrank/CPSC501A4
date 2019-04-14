@@ -1,0 +1,53 @@
+commit 37f6fee465c5f72abe86d0c7348911bc7fcdfab2
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Fri Apr 12 22:06:18 2019 -0600
+
+    Do the compiler optimization (-O3)
+
+commit 1f4c667d1a34c8d72a75deb243d68eef7eb3f39a
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Fri Apr 12 22:05:03 2019 -0600
+
+    Do the code Tuning No.5
+
+commit 1c9d33f68a430e06582426845c5731bff6eb6ae3
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Fri Apr 12 22:00:44 2019 -0600
+
+    Do the code Tuning No.4
+
+commit 46e4a58f1a09f2ea223ccf13383aaa20e535901f
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Fri Apr 12 21:55:16 2019 -0600
+
+    Do the code Tuning No.3
+
+commit 0ce0c6ab531d545134d5aa0878c57eeb4b5f50ba
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Fri Apr 12 21:04:33 2019 -0600
+
+    Do the code Tuning No.2
+
+commit 2c0489d69bcc192bc12c669345ba8d8fd22f0e03
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Fri Apr 12 20:44:12 2019 -0600
+
+    Do the code Tuning No.1
+
+commit eea2bf047c49961d50d5c9286748b436dc21bd8c
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Fri Apr 12 15:22:54 2019 -0600
+
+    Do the Algorithm-Based Optimization program
+
+commit 2d61069ed7423c14b3bb98ba361a7fc81840555f
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Sun Apr 7 22:12:40 2019 -0600
+
+    Do the baseline program
+
+commit 0ef8da906d7cef22a2443624699d8a3858e2fa2e
+Author: zichenghuangFrank <zichenghuang05@gmail.com>
+Date:   Sun Apr 7 22:12:01 2019 -0600
+
+    Initialization
